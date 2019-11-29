@@ -1,0 +1,57 @@
+<style>
+    #botao {
+        color:white;
+    }
+    #botao:hover {
+      font-size: 101%;
+      background: rgb(30,120,230);
+    }
+    footer {
+      color: #808080;
+    }
+</style>
+<p>
+<h1>Lista de Atos</h1>
+<p>
+<table class="table">
+  <thead>
+    <tr>
+      <th class="text-center">Visualizar</th>
+      <th class="text-center">Ato</th>
+      <th class="text-center">DOE</th>
+      <th class="text-center">Governador</th>
+      <th class="text-center">Nomeado</th>
+      <th class="text-center">Cargo</th>
+      <th class="text-center">Secretaria</th>
+      <th class="text-center">Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let ato of atos.rows | async">
+      <td class="text-center"><a id="botao" class="btn btn-primary btn-sm" [routerLink]="['/atos', ato.id]">{{ ato.id }}</a></td> 
+      <td class="text-center">{{ ato.numero }}</td>
+      <td class="text-center">{{ ato.diario.edicao }}</td>
+      <td class="text-center">{{ ato.governador.nome }}</td>
+      <td class="text-center">{{ ato.nomeado.nome }}</td>
+      <td class="text-center">{{ ato.cargo.nome }}</td>
+      <td class="text-center">{{ ato.secretaria.nome }}</td>
+      <td class="text-center">{{ ato.data }}</td>
+    </tr>
+  </tbody>
+</table>
+<footer class="mt-5">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+            <p><strong>INFO DOE</strong> é um software proposto para a matéria de Estagio Supervisionado.</p>
+        </div>
+        <div class="col">
+            <p class="text-center">&copy; 2019</p>
+        </div>
+        <div class="col">
+          O <strong>INFO DOE</strong> recupera e apresenta dados de Atos de Nomeação do DOE do Tocantins.
+          <p>
+        </div>
+      </div>
+    </div>
+</footer>

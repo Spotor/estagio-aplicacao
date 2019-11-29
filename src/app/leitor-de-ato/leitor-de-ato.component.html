@@ -1,0 +1,49 @@
+<style>
+    .leitorAto {
+        font-size:120%;
+        color:black;
+    }
+    footer {
+      color: #808080;
+    }
+</style>
+<div *ngIf="ato">
+    <p>
+    <h1>Ato de Nomeação Nº: {{ ato.numero }} </h1>
+    <div class="leitorAto">
+        <hr>
+        <p>
+        Data: {{ ato.data }}
+        <hr>
+        Nomeado: {{ ato.nomeado.nome }}
+        <hr>
+        Cargo: {{ ato.cargo.nome }}
+        <hr>
+        Governador: {{ ato.governador.nome }}
+        <hr>
+        Secretaria: {{ ato.secretaria.nome }}
+    </div>
+    <hr>
+    <h5>Nº: da Edição do DOE: {{ ato.diario.edicao }}</h5>
+</div>
+<p>
+<div class="alert alert-warning" *ngIf="ato_erro">
+        Não foi possível obter o Ato solicitada.
+</div>
+
+<footer class="fixed-bottom">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+                <p><strong>INFO DOE</strong> é um software proposto para a matéria de Estagio Supervisionado.</p>
+            </div>
+            <div class="col">
+                <p class="text-center">&copy; 2019</p>
+            </div>
+            <div class="col">
+              O <strong>INFO DOE</strong> recupera e apresenta dados de Atos de Nomeação do DOE do Tocantins.
+              <p>
+            </div>
+          </div>
+        </div>
+    </footer>

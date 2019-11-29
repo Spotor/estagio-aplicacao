@@ -1,0 +1,52 @@
+<style>
+    .big {
+        font-size:900%;
+        text-align: center;
+    }
+    .big:hover {
+        font-size:1000%;
+        color: rgb(30,120,230);
+    }
+    footer {
+      color: #808080;
+    }
+</style>
+<p>
+<h1>Estatística Geral</h1>
+<p>
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-center">Diários Publicados</th>
+            <th class="text-center">Atos Publicados</th>
+            <th class="text-center">Nomeados</th>
+            <th class="text-center">Cargos</th>
+            <th class="text-center">Secretarias</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="big" *ngFor="let diario of diarios$ | async">{{diario.quantidade}}</td>
+            <td class="big" *ngFor="let q_ato of q_atos$ | async">{{q_ato.quantidade}}</td>
+            <td class="big" *ngFor="let nomeado of nomeados$ | async">{{nomeado.quantidade}}</td>
+            <td class="big" *ngFor="let cargo of cargos$ | async">{{cargo.quantidade}}</td>
+            <td class="big" *ngFor="let secretaria of secretarias$ | async">{{secretaria.quantidade}}</td>
+        </tr>
+    </tbody>
+</table>
+<footer class="fixed-bottom">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+                <p><strong>INFO DOE</strong> é um software proposto para a matéria de Estagio Supervisionado.</p>
+            </div>
+            <div class="col">
+                <p class="text-center">&copy; 2019</p>
+            </div>
+            <div class="col">
+              O <strong>INFO DOE</strong> recupera e apresenta dados de Atos de Nomeação do DOE do Tocantins.
+              <p>
+            </div>
+          </div>
+        </div>
+    </footer>

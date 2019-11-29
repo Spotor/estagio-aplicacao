@@ -1,0 +1,3732 @@
+{   
+    "count":[
+        {
+            "quant": 86
+        }
+    ],
+    "atos": [
+        {
+            "id": 1,
+            "numero": 1289,
+            "data": "2018-07-27T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:57:53.577Z",
+            "updatedAt": "2019-11-18T18:57:53.577Z",
+            "diario_id": 1,
+            "nomeado_id": 1,
+            "governador_id": 1,
+            "cargo_id": 1,
+            "secretaria_id": 1,
+            "diario": {
+            "id": 1,
+            "edicao": 5164,
+            "data": null,
+            "createdAt": "2019-11-18T18:57:50.627Z",
+            "updatedAt": "2019-11-18T18:57:50.627Z"
+            },
+            "nomeado": {
+            "id": 1,
+            "nome": "LUANA ECKERT DE ALMEIDA",
+            "createdAt": "2019-11-18T18:57:53.202Z",
+            "updatedAt": "2019-11-18T18:57:53.202Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 1,
+            "nome": "ASSESSOR TÉCNICO E DE PLANEJAMENTO",
+            "createdAt": "2019-11-18T18:57:52.169Z",
+            "updatedAt": "2019-11-18T18:57:52.169Z"
+            },
+            "secretaria": {
+            "id": 1,
+            "nome": "SECRETARIA DO TRABALHO E ASSISTÊNCIA SOCIAL",
+            "createdAt": "2019-11-18T18:57:52.782Z",
+            "updatedAt": "2019-11-18T18:57:52.782Z"
+            }
+        },
+        {
+            "id": 2,
+            "numero": 1290,
+            "data": "2018-07-27T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:57:55.250Z",
+            "updatedAt": "2019-11-18T18:57:55.250Z",
+            "diario_id": 1,
+            "nomeado_id": 2,
+            "governador_id": 1,
+            "cargo_id": 2,
+            "secretaria_id": 1,
+            "diario": {
+            "id": 1,
+            "edicao": 5164,
+            "data": null,
+            "createdAt": "2019-11-18T18:57:50.627Z",
+            "updatedAt": "2019-11-18T18:57:50.627Z"
+            },
+            "nomeado": {
+            "id": 2,
+            "nome": "EENDRIK LIMA GOMES",
+            "createdAt": "2019-11-18T18:57:54.793Z",
+            "updatedAt": "2019-11-18T18:57:54.793Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 2,
+            "nome": "GERENTE DE ACOMPANHAMENTO DA EXECUÇÃO FÍSICA, FINANCEIRA E SUPORTE OPERACIONAL",
+            "createdAt": "2019-11-18T18:57:54.218Z",
+            "updatedAt": "2019-11-18T18:57:54.218Z"
+            },
+            "secretaria": {
+            "id": 1,
+            "nome": "SECRETARIA DO TRABALHO E ASSISTÊNCIA SOCIAL",
+            "createdAt": "2019-11-18T18:57:52.782Z",
+            "updatedAt": "2019-11-18T18:57:52.782Z"
+            }
+        },
+        {
+            "id": 3,
+            "numero": 1291,
+            "data": "2018-07-27T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:57:56.888Z",
+            "updatedAt": "2019-11-18T18:57:56.888Z",
+            "diario_id": 1,
+            "nomeado_id": 3,
+            "governador_id": 1,
+            "cargo_id": 3,
+            "secretaria_id": 1,
+            "diario": {
+            "id": 1,
+            "edicao": 5164,
+            "data": null,
+            "createdAt": "2019-11-18T18:57:50.627Z",
+            "updatedAt": "2019-11-18T18:57:50.627Z"
+            },
+            "nomeado": {
+            "id": 3,
+            "nome": "SHEILA RÉGIA FAGUNDES ARAÚJO PIMENTA",
+            "createdAt": "2019-11-18T18:57:56.478Z",
+            "updatedAt": "2019-11-18T18:57:56.478Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 3,
+            "nome": "ASSESSOR TÉCNICO ESPECIAL I",
+            "createdAt": "2019-11-18T18:57:55.854Z",
+            "updatedAt": "2019-11-18T18:57:55.854Z"
+            },
+            "secretaria": {
+            "id": 1,
+            "nome": "SECRETARIA DO TRABALHO E ASSISTÊNCIA SOCIAL",
+            "createdAt": "2019-11-18T18:57:52.782Z",
+            "updatedAt": "2019-11-18T18:57:52.782Z"
+            }
+        },
+        {
+            "id": 4,
+            "numero": 1292,
+            "data": "2018-07-27T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:57:58.942Z",
+            "updatedAt": "2019-11-18T18:57:58.942Z",
+            "diario_id": 1,
+            "nomeado_id": 4,
+            "governador_id": 1,
+            "cargo_id": 4,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 1,
+            "edicao": 5164,
+            "data": null,
+            "createdAt": "2019-11-18T18:57:50.627Z",
+            "updatedAt": "2019-11-18T18:57:50.627Z"
+            },
+            "nomeado": {
+            "id": 4,
+            "nome": "ELIZABETH KELY FERREIRA MAIA",
+            "createdAt": "2019-11-18T18:57:58.525Z",
+            "updatedAt": "2019-11-18T18:57:58.525Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 4,
+            "nome": "ASSESSOR ESPECIAL XII",
+            "createdAt": "2019-11-18T18:57:57.492Z",
+            "updatedAt": "2019-11-18T18:57:57.492Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 5,
+            "numero": 1293,
+            "data": "2018-07-27T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:00.539Z",
+            "updatedAt": "2019-11-18T18:58:00.539Z",
+            "diario_id": 1,
+            "nomeado_id": 5,
+            "governador_id": 1,
+            "cargo_id": 5,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 1,
+            "edicao": 5164,
+            "data": null,
+            "createdAt": "2019-11-18T18:57:50.627Z",
+            "updatedAt": "2019-11-18T18:57:50.627Z"
+            },
+            "nomeado": {
+            "id": 5,
+            "nome": "HELSON BARBOSA DE SOUSA",
+            "createdAt": "2019-11-18T18:58:00.164Z",
+            "updatedAt": "2019-11-18T18:58:00.164Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 5,
+            "nome": "ASSESSOR ESPECIAL IX",
+            "createdAt": "2019-11-18T18:57:59.540Z",
+            "updatedAt": "2019-11-18T18:57:59.540Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 6,
+            "numero": 1295,
+            "data": "2018-07-27T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:02.622Z",
+            "updatedAt": "2019-11-18T18:58:02.622Z",
+            "diario_id": 1,
+            "nomeado_id": 6,
+            "governador_id": 1,
+            "cargo_id": 6,
+            "secretaria_id": 3,
+            "diario": {
+            "id": 1,
+            "edicao": 5164,
+            "data": null,
+            "createdAt": "2019-11-18T18:57:50.627Z",
+            "updatedAt": "2019-11-18T18:57:50.627Z"
+            },
+            "nomeado": {
+            "id": 6,
+            "nome": "WILSON ROBERTO ALVES DA SILVA",
+            "createdAt": "2019-11-18T18:58:02.212Z",
+            "updatedAt": "2019-11-18T18:58:02.212Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 6,
+            "nome": "GERENTE DO NÚCLEO DE COMUNICAÇÃO",
+            "createdAt": "2019-11-18T18:58:01.179Z",
+            "updatedAt": "2019-11-18T18:58:01.179Z"
+            },
+            "secretaria": {
+            "id": 3,
+            "nome": "SECRETARIA DA COMUNICAÇÃO SOCIAL",
+            "createdAt": "2019-11-18T18:58:01.793Z",
+            "updatedAt": "2019-11-18T18:58:01.793Z"
+            }
+        },
+        {
+            "id": 7,
+            "numero": 1298,
+            "data": "2018-07-27T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:04.568Z",
+            "updatedAt": "2019-11-18T18:58:04.568Z",
+            "diario_id": 1,
+            "nomeado_id": 7,
+            "governador_id": 1,
+            "cargo_id": 7,
+            "secretaria_id": 1,
+            "diario": {
+            "id": 1,
+            "edicao": 5164,
+            "data": null,
+            "createdAt": "2019-11-18T18:57:50.627Z",
+            "updatedAt": "2019-11-18T18:57:50.627Z"
+            },
+            "nomeado": {
+            "id": 7,
+            "nome": "BRUNO BENÍCIO MARTINS",
+            "createdAt": "2019-11-18T18:58:04.158Z",
+            "updatedAt": "2019-11-18T18:58:04.158Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 7,
+            "nome": "CHEFE DA UNIDADE REGIONAL DO SINE",
+            "createdAt": "2019-11-18T18:58:03.534Z",
+            "updatedAt": "2019-11-18T18:58:03.534Z"
+            },
+            "secretaria": {
+            "id": 1,
+            "nome": "SECRETARIA DO TRABALHO E ASSISTÊNCIA SOCIAL",
+            "createdAt": "2019-11-18T18:57:52.782Z",
+            "updatedAt": "2019-11-18T18:57:52.782Z"
+            }
+        },
+        {
+            "id": 8,
+            "numero": 1532,
+            "data": "2018-10-09T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:08.665Z",
+            "updatedAt": "2019-11-18T18:58:08.665Z",
+            "diario_id": 4,
+            "nomeado_id": 8,
+            "governador_id": 1,
+            "cargo_id": 8,
+            "secretaria_id": 4,
+            "diario": {
+            "id": 4,
+            "edicao": 5214,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:06.519Z",
+            "updatedAt": "2019-11-18T18:58:06.519Z"
+            },
+            "nomeado": {
+            "id": 8,
+            "nome": "DAV ID SIFF ERT TORRE S",
+            "createdAt": "2019-11-18T18:58:08.222Z",
+            "updatedAt": "2019-11-18T18:58:08.222Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 8,
+            "nome": "SUPERINTENDENTE DE PLANEJAMENTO E DESENVOLVIMENTO",
+            "createdAt": "2019-11-18T18:58:07.221Z",
+            "updatedAt": "2019-11-18T18:58:07.221Z"
+            },
+            "secretaria": {
+            "id": 4,
+            "nome": "SECRETARIA DA FAZENDA E PLANEJAMENTO",
+            "createdAt": "2019-11-18T18:58:07.835Z",
+            "updatedAt": "2019-11-18T18:58:07.835Z"
+            }
+        },
+        {
+            "id": 9,
+            "numero": 1517,
+            "data": "2018-09-24T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:11.122Z",
+            "updatedAt": "2019-11-18T18:58:11.122Z",
+            "diario_id": 6,
+            "nomeado_id": 9,
+            "governador_id": 1,
+            "cargo_id": 9,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 6,
+            "edicao": 5216,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:09.489Z",
+            "updatedAt": "2019-11-18T18:58:09.489Z"
+            },
+            "nomeado": {
+            "id": 9,
+            "nome": "JÚLIA LABRE BATISTA MIRANDA",
+            "createdAt": "2019-11-18T18:58:10.712Z",
+            "updatedAt": "2019-11-18T18:58:10.712Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 9,
+            "nome": "ASSESSOR ESPECIAL XI",
+            "createdAt": "2019-11-18T18:58:10.088Z",
+            "updatedAt": "2019-11-18T18:58:10.088Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 10,
+            "numero": 1538,
+            "data": "2018-10-11T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:13.134Z",
+            "updatedAt": "2019-11-18T18:58:13.134Z",
+            "diario_id": 6,
+            "nomeado_id": 10,
+            "governador_id": 1,
+            "cargo_id": 10,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 6,
+            "edicao": 5216,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:09.489Z",
+            "updatedAt": "2019-11-18T18:58:09.489Z"
+            },
+            "nomeado": {
+            "id": 10,
+            "nome": "MONALISA DOMINGUES SABINO DA SILVA",
+            "createdAt": "2019-11-18T18:58:12.755Z",
+            "updatedAt": "2019-11-18T18:58:12.755Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 10,
+            "nome": "DIRETOR TÉCNICO DE UNIDADE PORTE 3",
+            "createdAt": "2019-11-18T18:58:11.726Z",
+            "updatedAt": "2019-11-18T18:58:11.726Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 11,
+            "numero": 1555,
+            "data": "2018-10-19T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:17.572Z",
+            "updatedAt": "2019-11-18T18:58:17.572Z",
+            "diario_id": 12,
+            "nomeado_id": 11,
+            "governador_id": 1,
+            "cargo_id": 11,
+            "secretaria_id": 6,
+            "diario": {
+            "id": 12,
+            "edicao": 5222,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:15.637Z",
+            "updatedAt": "2019-11-18T18:58:15.637Z"
+            },
+            "nomeado": {
+            "id": 11,
+            "nome": "ANA CAROLINA MACEDO RUIZ",
+            "createdAt": "2019-11-18T18:58:17.162Z",
+            "updatedAt": "2019-11-18T18:58:17.162Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 11,
+            "nome": "ASSESSOR DE ASSUNTOS INTERNACIONAIS",
+            "createdAt": "2019-11-18T18:58:16.180Z",
+            "updatedAt": "2019-11-18T18:58:16.180Z"
+            },
+            "secretaria": {
+            "id": 6,
+            "nome": "SECRETARIA- GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:16.743Z",
+            "updatedAt": "2019-11-18T18:58:16.743Z"
+            }
+        },
+        {
+            "id": 12,
+            "numero": 1556,
+            "data": "2018-10-19T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:19.211Z",
+            "updatedAt": "2019-11-18T18:58:19.211Z",
+            "diario_id": 12,
+            "nomeado_id": 12,
+            "governador_id": 1,
+            "cargo_id": 12,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 12,
+            "edicao": 5222,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:15.637Z",
+            "updatedAt": "2019-11-18T18:58:15.637Z"
+            },
+            "nomeado": {
+            "id": 12,
+            "nome": "MONIQUE SCHERER",
+            "createdAt": "2019-11-18T18:58:18.801Z",
+            "updatedAt": "2019-11-18T18:58:18.801Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 12,
+            "nome": "ASSESSOR ESPECIAL X",
+            "createdAt": "2019-11-18T18:58:18.177Z",
+            "updatedAt": "2019-11-18T18:58:18.177Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 13,
+            "numero": 1569,
+            "data": "2018-10-24T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:21.735Z",
+            "updatedAt": "2019-11-18T18:58:21.735Z",
+            "diario_id": 14,
+            "nomeado_id": 13,
+            "governador_id": 1,
+            "cargo_id": 13,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 14,
+            "edicao": 5224,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:20.005Z",
+            "updatedAt": "2019-11-18T18:58:20.005Z"
+            },
+            "nomeado": {
+            "id": 13,
+            "nome": "ELAINE RIBEIRO DE MOURA",
+            "createdAt": "2019-11-18T18:58:21.305Z",
+            "updatedAt": "2019-11-18T18:58:21.305Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 13,
+            "nome": "DIRETOR-GERAL DE UNIDADE PORTE 1",
+            "createdAt": "2019-11-18T18:58:20.737Z",
+            "updatedAt": "2019-11-18T18:58:20.737Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 14,
+            "numero": 1577,
+            "data": "2018-10-24T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:23.306Z",
+            "updatedAt": "2019-11-18T18:58:23.306Z",
+            "diario_id": 14,
+            "nomeado_id": 14,
+            "governador_id": 1,
+            "cargo_id": 14,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 14,
+            "edicao": 5224,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:20.005Z",
+            "updatedAt": "2019-11-18T18:58:20.005Z"
+            },
+            "nomeado": {
+            "id": 14,
+            "nome": "ROSALBA VALADARES NOLETO",
+            "createdAt": "2019-11-18T18:58:22.901Z",
+            "updatedAt": "2019-11-18T18:58:22.901Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 14,
+            "nome": "GERENTE DA REDE LABO RATORIAL DE SAÚDE PÚBLICA",
+            "createdAt": "2019-11-18T18:58:22.273Z",
+            "updatedAt": "2019-11-18T18:58:22.273Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 15,
+            "numero": 1565,
+            "data": "2018-10-23T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:25.041Z",
+            "updatedAt": "2019-11-18T18:58:25.041Z",
+            "diario_id": 14,
+            "nomeado_id": 15,
+            "governador_id": 1,
+            "cargo_id": 15,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 14,
+            "edicao": 5224,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:20.005Z",
+            "updatedAt": "2019-11-18T18:58:20.005Z"
+            },
+            "nomeado": {
+            "id": 15,
+            "nome": "KLEBER WESSEL DE OLIVEIRA",
+            "createdAt": "2019-11-18T18:58:24.635Z",
+            "updatedAt": "2019-11-18T18:58:24.635Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 15,
+            "nome": "DIRETOR ADMINISTRATIVO DE UNIDADE PORTE 2",
+            "createdAt": "2019-11-18T18:58:23.909Z",
+            "updatedAt": "2019-11-18T18:58:23.909Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 16,
+            "numero": 1563,
+            "data": "2018-10-22T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:28.322Z",
+            "updatedAt": "2019-11-18T18:58:28.322Z",
+            "diario_id": 17,
+            "nomeado_id": 16,
+            "governador_id": 1,
+            "cargo_id": 16,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 17,
+            "edicao": 5227,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:26.283Z",
+            "updatedAt": "2019-11-18T18:58:26.283Z"
+            },
+            "nomeado": {
+            "id": 16,
+            "nome": "FANY MELO PEREIRA RÊGO",
+            "createdAt": "2019-11-18T18:58:27.912Z",
+            "updatedAt": "2019-11-18T18:58:27.912Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 16,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR IV",
+            "createdAt": "2019-11-18T18:58:26.878Z",
+            "updatedAt": "2019-11-18T18:58:26.878Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 17,
+            "numero": 1584,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:29.551Z",
+            "updatedAt": "2019-11-18T18:58:29.551Z",
+            "diario_id": 17,
+            "nomeado_id": 17,
+            "governador_id": 1,
+            "cargo_id": 16,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 17,
+            "edicao": 5227,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:26.283Z",
+            "updatedAt": "2019-11-18T18:58:26.283Z"
+            },
+            "nomeado": {
+            "id": 17,
+            "nome": "CARLOS ROBERTO DE ALMEIDA GOMES",
+            "createdAt": "2019-11-18T18:58:29.142Z",
+            "updatedAt": "2019-11-18T18:58:29.142Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 16,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR IV",
+            "createdAt": "2019-11-18T18:58:26.878Z",
+            "updatedAt": "2019-11-18T18:58:26.878Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 18,
+            "numero": 1588,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:30.880Z",
+            "updatedAt": "2019-11-18T18:58:30.880Z",
+            "diario_id": 17,
+            "nomeado_id": 18,
+            "governador_id": 1,
+            "cargo_id": 16,
+            "secretaria_id": 6,
+            "diario": {
+            "id": 17,
+            "edicao": 5227,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:26.283Z",
+            "updatedAt": "2019-11-18T18:58:26.283Z"
+            },
+            "nomeado": {
+            "id": 18,
+            "nome": "GILBERTO ARRUDA",
+            "createdAt": "2019-11-18T18:58:30.445Z",
+            "updatedAt": "2019-11-18T18:58:30.445Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 16,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR IV",
+            "createdAt": "2019-11-18T18:58:26.878Z",
+            "updatedAt": "2019-11-18T18:58:26.878Z"
+            },
+            "secretaria": {
+            "id": 6,
+            "nome": "SECRETARIA- GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:16.743Z",
+            "updatedAt": "2019-11-18T18:58:16.743Z"
+            }
+        },
+        {
+            "id": 19,
+            "numero": 1589,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:32.110Z",
+            "updatedAt": "2019-11-18T18:58:32.110Z",
+            "diario_id": 17,
+            "nomeado_id": 19,
+            "governador_id": 1,
+            "cargo_id": 16,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 17,
+            "edicao": 5227,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:26.283Z",
+            "updatedAt": "2019-11-18T18:58:26.283Z"
+            },
+            "nomeado": {
+            "id": 19,
+            "nome": "MARGARETH APARECIDA DE LIMA",
+            "createdAt": "2019-11-18T18:58:31.701Z",
+            "updatedAt": "2019-11-18T18:58:31.701Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 16,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR IV",
+            "createdAt": "2019-11-18T18:58:26.878Z",
+            "updatedAt": "2019-11-18T18:58:26.878Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 20,
+            "numero": 1591,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:34.056Z",
+            "updatedAt": "2019-11-18T18:58:34.056Z",
+            "diario_id": 17,
+            "nomeado_id": 20,
+            "governador_id": 1,
+            "cargo_id": 17,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 17,
+            "edicao": 5227,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:26.283Z",
+            "updatedAt": "2019-11-18T18:58:26.283Z"
+            },
+            "nomeado": {
+            "id": 20,
+            "nome": "SEBASTIÃO VIEIRA DE MELO",
+            "createdAt": "2019-11-18T18:58:33.646Z",
+            "updatedAt": "2019-11-18T18:58:33.646Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 17,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR I",
+            "createdAt": "2019-11-18T18:58:33.022Z",
+            "updatedAt": "2019-11-18T18:58:33.022Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 21,
+            "numero": 1593,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:35.656Z",
+            "updatedAt": "2019-11-18T18:58:35.656Z",
+            "diario_id": 17,
+            "nomeado_id": 21,
+            "governador_id": 1,
+            "cargo_id": 18,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 17,
+            "edicao": 5227,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:26.283Z",
+            "updatedAt": "2019-11-18T18:58:26.283Z"
+            },
+            "nomeado": {
+            "id": 21,
+            "nome": "LUÍS FILHO DA COSTA MELO",
+            "createdAt": "2019-11-18T18:58:35.285Z",
+            "updatedAt": "2019-11-18T18:58:35.285Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 18,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR III",
+            "createdAt": "2019-11-18T18:58:34.661Z",
+            "updatedAt": "2019-11-18T18:58:34.661Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+        }
+        },
+        {
+            "id": 22,
+            "numero": 1594,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:36.920Z",
+            "updatedAt": "2019-11-18T18:58:36.920Z",
+            "diario_id": 17,
+            "nomeado_id": 22,
+            "governador_id": 1,
+            "cargo_id": 4,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 17,
+            "edicao": 5227,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:26.283Z",
+            "updatedAt": "2019-11-18T18:58:26.283Z"
+            },
+            "nomeado": {
+            "id": 22,
+            "nome": "ANTÔNIO CARLOS MIRANDA",
+            "createdAt": "2019-11-18T18:58:36.515Z",
+            "updatedAt": "2019-11-18T18:58:36.515Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 4,
+            "nome": "ASSESSOR ESPECIAL XII",
+            "createdAt": "2019-11-18T18:57:57.492Z",
+            "updatedAt": "2019-11-18T18:57:57.492Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 23,
+            "numero": 1585,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:38.968Z",
+            "updatedAt": "2019-11-18T18:58:38.968Z",
+            "diario_id": 18,
+            "nomeado_id": 23,
+            "governador_id": 1,
+            "cargo_id": 19,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 18,
+            "edicao": 5228,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:37.336Z",
+            "updatedAt": "2019-11-18T18:58:37.336Z"
+            },
+            "nomeado": {
+            "id": 23,
+            "nome": "ARTÉLIO MARQUES DE SOUZA",
+            "createdAt": "2019-11-18T18:58:38.553Z",
+            "updatedAt": "2019-11-18T18:58:38.553Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 19,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR V",
+            "createdAt": "2019-11-18T18:58:37.938Z",
+            "updatedAt": "2019-11-18T18:58:37.938Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 24,
+            "numero": 1587,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:40.609Z",
+            "updatedAt": "2019-11-18T18:58:40.609Z",
+            "diario_id": 18,
+            "nomeado_id": 24,
+            "governador_id": 1,
+            "cargo_id": 20,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 18,
+            "edicao": 5228,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:37.336Z",
+            "updatedAt": "2019-11-18T18:58:37.336Z"
+            },
+            "nomeado": {
+            "id": 24,
+            "nome": "CLAYZER MAGONO DUARTE",
+            "createdAt": "2019-11-18T18:58:40.200Z",
+            "updatedAt": "2019-11-18T18:58:40.200Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 20,
+            "nome": "ASSESSOR DE GESTÃO DE ARTICULAÇÃO DOS CONSELHOS DE DESENVOLVIMENTO REGIONAIS E SETORIAIS",
+            "createdAt": "2019-11-18T18:58:39.576Z",
+            "updatedAt": "2019-11-18T18:58:39.576Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 25,
+            "numero": 1590,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:41.839Z",
+            "updatedAt": "2019-11-18T18:58:41.839Z",
+            "diario_id": 18,
+            "nomeado_id": 25,
+            "governador_id": 1,
+            "cargo_id": 16,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 18,
+            "edicao": 5228,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:37.336Z",
+            "updatedAt": "2019-11-18T18:58:37.336Z"
+            },
+            "nomeado": {
+            "id": 25,
+            "nome": "POLYANA BASÍLIO SIQUEIRA",
+            "createdAt": "2019-11-18T18:58:41.430Z",
+            "updatedAt": "2019-11-18T18:58:41.430Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 16,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR IV",
+            "createdAt": "2019-11-18T18:58:26.878Z",
+            "updatedAt": "2019-11-18T18:58:26.878Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 26,
+            "numero": 1592,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:43.067Z",
+            "updatedAt": "2019-11-18T18:58:43.067Z",
+            "diario_id": 18,
+            "nomeado_id": 26,
+            "governador_id": 1,
+            "cargo_id": 17,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 18,
+            "edicao": 5228,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:37.336Z",
+            "updatedAt": "2019-11-18T18:58:37.336Z"
+            },
+            "nomeado": {
+            "id": 26,
+            "nome": "RAIMUNDO ALVES ARRUDA",
+            "createdAt": "2019-11-18T18:58:42.654Z",
+            "updatedAt": "2019-11-18T18:58:42.654Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 17,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR I",
+            "createdAt": "2019-11-18T18:58:33.022Z",
+            "updatedAt": "2019-11-18T18:58:33.022Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 27,
+            "numero": 1529,
+            "data": "2018-10-29T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:44.706Z",
+            "updatedAt": "2019-11-18T18:58:44.706Z",
+            "diario_id": 19,
+            "nomeado_id": 27,
+            "governador_id": 1,
+            "cargo_id": 17,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 19,
+            "edicao": 5229,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:43.479Z",
+            "updatedAt": "2019-11-18T18:58:43.479Z"
+            },
+            "nomeado": {
+            "id": 27,
+            "nome": "CLAYZER MAGONO DUARTE",
+            "createdAt": "2019-11-18T18:58:44.296Z",
+            "updatedAt": "2019-11-18T18:58:44.296Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 17,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR I",
+            "createdAt": "2019-11-18T18:58:33.022Z",
+            "updatedAt": "2019-11-18T18:58:33.022Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 28,
+            "numero": 1598,
+            "data": "2018-10-31T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:46.618Z",
+            "updatedAt": "2019-11-18T18:58:46.618Z",
+            "diario_id": 19,
+            "nomeado_id": 28,
+            "governador_id": 1,
+            "cargo_id": 21,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 19,
+            "edicao": 5229,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:43.479Z",
+            "updatedAt": "2019-11-18T18:58:43.479Z"
+            },
+            "nomeado": {
+            "id": 28,
+            "nome": "VICENÇA VIEIRA DANTAS LINO DA SILVA",
+            "createdAt": "2019-11-18T18:58:46.215Z",
+            "updatedAt": "2019-11-18T18:58:46.215Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 21,
+            "nome": "GERENTE ADMINISTRATIVO-FINANCEIRO",
+            "createdAt": "2019-11-18T18:58:45.596Z",
+            "updatedAt": "2019-11-18T18:58:45.596Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 29,
+            "numero": 1600,
+            "data": "2018-10-31T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:48.259Z",
+            "updatedAt": "2019-11-18T18:58:48.259Z",
+            "diario_id": 19,
+            "nomeado_id": 29,
+            "governador_id": 1,
+            "cargo_id": 22,
+            "secretaria_id": 6,
+            "diario": {
+            "id": 19,
+            "edicao": 5229,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:43.479Z",
+            "updatedAt": "2019-11-18T18:58:43.479Z"
+            },
+            "nomeado": {
+            "id": 29,
+            "nome": "MARCUS KRAN BERLANDA",
+            "createdAt": "2019-11-18T18:58:47.881Z",
+            "updatedAt": "2019-11-18T18:58:47.881Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 22,
+            "nome": "GERENTE DE ADMINISTRAÇÃO DO PALÁCIO",
+            "createdAt": "2019-11-18T18:58:47.201Z",
+            "updatedAt": "2019-11-18T18:58:47.201Z"
+            },
+            "secretaria": {
+            "id": 6,
+            "nome": "SECRETARIA- GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:16.743Z",
+            "updatedAt": "2019-11-18T18:58:16.743Z"
+            }
+        },
+        {
+            "id": 30,
+            "numero": 1597,
+            "data": "2018-11-05T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:49.928Z",
+            "updatedAt": "2019-11-18T18:58:49.928Z",
+            "diario_id": 20,
+            "nomeado_id": 30,
+            "governador_id": 1,
+            "cargo_id": 16,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 20,
+            "edicao": 5230,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:48.702Z",
+            "updatedAt": "2019-11-18T18:58:48.702Z"
+            },
+            "nomeado": {
+            "id": 30,
+            "nome": "KARINA RODRIGUES COELHO DE SA",
+            "createdAt": "2019-11-18T18:58:49.520Z",
+            "updatedAt": "2019-11-18T18:58:49.520Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 16,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR IV",
+            "createdAt": "2019-11-18T18:58:26.878Z",
+            "updatedAt": "2019-11-18T18:58:26.878Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 31,
+            "numero": 1602,
+            "data": "2018-11-06T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:52.386Z",
+            "updatedAt": "2019-11-18T18:58:52.386Z",
+            "diario_id": 21,
+            "nomeado_id": 31,
+            "governador_id": 1,
+            "cargo_id": 23,
+            "secretaria_id": 8,
+            "diario": {
+            "id": 21,
+            "edicao": 5231,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:50.335Z",
+            "updatedAt": "2019-11-18T18:58:50.335Z"
+            },
+            "nomeado": {
+            "id": 31,
+            "nome": "DAYANE GUILHEM BATISTA",
+            "createdAt": "2019-11-18T18:58:51.941Z",
+            "updatedAt": "2019-11-18T18:58:51.941Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 23,
+            "nome": "DIRETOR ADMINISTRATIVO",
+            "createdAt": "2019-11-18T18:58:50.943Z",
+            "updatedAt": "2019-11-18T18:58:50.943Z"
+            },
+            "secretaria": {
+            "id": 8,
+            "nome": "SECRETARIA DA EDUCAÇÃO",
+            "createdAt": "2019-11-18T18:58:51.557Z",
+            "updatedAt": "2019-11-18T18:58:51.557Z"
+            }
+        },
+        {
+            "id": 32,
+            "numero": 1603,
+            "data": "2018-11-06T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:54.020Z",
+            "updatedAt": "2019-11-18T18:58:54.020Z",
+            "diario_id": 21,
+            "nomeado_id": 32,
+            "governador_id": 1,
+            "cargo_id": 24,
+            "secretaria_id": 8,
+            "diario": {
+            "id": 21,
+            "edicao": 5231,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:50.335Z",
+            "updatedAt": "2019-11-18T18:58:50.335Z"
+            },
+            "nomeado": {
+            "id": 32,
+            "nome": "VIVIANE DE SOUSA GOMES COSTA",
+            "createdAt": "2019-11-18T18:58:53.591Z",
+            "updatedAt": "2019-11-18T18:58:53.591Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 24,
+            "nome": "GERENTE DE CONVÊNIOS E CONTRATOS",
+            "createdAt": "2019-11-18T18:58:52.990Z",
+            "updatedAt": "2019-11-18T18:58:52.990Z"
+            },
+            "secretaria": {
+            "id": 8,
+            "nome": "SECRETARIA DA EDUCAÇÃO",
+            "createdAt": "2019-11-18T18:58:51.557Z",
+            "updatedAt": "2019-11-18T18:58:51.557Z"
+            }
+        },
+        {
+            "id": 33,
+            "numero": 1606,
+            "data": "2018-11-06T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:55.662Z",
+            "updatedAt": "2019-11-18T18:58:55.662Z",
+            "diario_id": 21,
+            "nomeado_id": 33,
+            "governador_id": 1,
+            "cargo_id": 25,
+            "secretaria_id": 8,
+            "diario": {
+            "id": 21,
+            "edicao": 5231,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:50.335Z",
+            "updatedAt": "2019-11-18T18:58:50.335Z"
+            },
+            "nomeado": {
+            "id": 33,
+            "nome": "JOSÉ FERNANDO BEZERRA MIRANDA",
+            "createdAt": "2019-11-18T18:58:55.254Z",
+            "updatedAt": "2019-11-18T18:58:55.254Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 25,
+            "nome": "GERENTE DE DESENVOLVIMENTO E FORTALECIMENTO DA EDUCAÇÃO PROFI SSIONAL",
+            "createdAt": "2019-11-18T18:58:54.611Z",
+            "updatedAt": "2019-11-18T18:58:54.611Z"
+            },
+            "secretaria": {
+            "id": 8,
+            "nome": "SECRETARIA DA EDUCAÇÃO",
+            "createdAt": "2019-11-18T18:58:51.557Z",
+            "updatedAt": "2019-11-18T18:58:51.557Z"
+            }
+        },
+        {
+            "id": 34,
+            "numero": 1559,
+            "data": "2018-10-22T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:58:58.123Z",
+            "updatedAt": "2019-11-18T18:58:58.123Z",
+            "diario_id": 23,
+            "nomeado_id": 34,
+            "governador_id": 1,
+            "cargo_id": 26,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 23,
+            "edicao": 5233,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:56.487Z",
+            "updatedAt": "2019-11-18T18:58:56.487Z"
+            },
+            "nomeado": {
+            "id": 34,
+            "nome": "JEFFERSON PEREIRA NOLETO",
+            "createdAt": "2019-11-18T18:58:57.710Z",
+            "updatedAt": "2019-11-18T18:58:57.710Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 26,
+            "nome": "GERENTE DE PATRIMÔNIO",
+            "createdAt": "2019-11-18T18:58:57.086Z",
+            "updatedAt": "2019-11-18T18:58:57.086Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 35,
+            "numero": 1566,
+            "data": "2018-11-07T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:00.169Z",
+            "updatedAt": "2019-11-18T18:59:00.169Z",
+            "diario_id": 23,
+            "nomeado_id": 35,
+            "governador_id": 1,
+            "cargo_id": 27,
+            "secretaria_id": 9,
+            "diario": {
+            "id": 23,
+            "edicao": 5233,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:56.487Z",
+            "updatedAt": "2019-11-18T18:58:56.487Z"
+            },
+            "nomeado": {
+            "id": 35,
+            "nome": "GILBERTO DA COSTA SILVA",
+            "createdAt": "2019-11-18T18:58:59.723Z",
+            "updatedAt": "2019-11-18T18:58:59.723Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 27,
+            "nome": "DIRETOR DE PROTEÇÃO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE",
+            "createdAt": "2019-11-18T18:58:58.725Z",
+            "updatedAt": "2019-11-18T18:58:58.725Z"
+            },
+            "secretaria": {
+            "id": 9,
+            "nome": "SECRETARIA DE CIDADANIA E JUSTIÇA",
+            "createdAt": "2019-11-18T18:58:59.339Z",
+            "updatedAt": "2019-11-18T18:58:59.339Z"
+            }
+        },
+        {
+            "id": 36,
+            "numero": 1614,
+            "data": "2018-11-07T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:01.807Z",
+            "updatedAt": "2019-11-18T18:59:01.807Z",
+            "diario_id": 23,
+            "nomeado_id": 36,
+            "governador_id": 1,
+            "cargo_id": 28,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 23,
+            "edicao": 5233,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:56.487Z",
+            "updatedAt": "2019-11-18T18:58:56.487Z"
+            },
+            "nomeado": {
+            "id": 36,
+            "nome": "PATRÍCIA PEREIRA DA SILVA",
+            "createdAt": "2019-11-18T18:59:01.337Z",
+            "updatedAt": "2019-11-18T18:59:01.337Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 28,
+            "nome": "GERENTE DE CENTRAL DE TERMOS DE REFERÊNCIA",
+            "createdAt": "2019-11-18T18:59:00.773Z",
+            "updatedAt": "2019-11-18T18:59:00.773Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 37,
+            "numero": 1615,
+            "data": "2018-11-07T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:03.032Z",
+            "updatedAt": "2019-11-18T18:59:03.032Z",
+            "diario_id": 23,
+            "nomeado_id": 37,
+            "governador_id": 1,
+            "cargo_id": 4,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 23,
+            "edicao": 5233,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:56.487Z",
+            "updatedAt": "2019-11-18T18:58:56.487Z"
+            },
+            "nomeado": {
+            "id": 37,
+            "nome": "ALDRIN GUIMARÃES FERREIRA",
+            "createdAt": "2019-11-18T18:59:02.626Z",
+            "updatedAt": "2019-11-18T18:59:02.626Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 4,
+            "nome": "ASSESSOR ESPECIAL XII",
+            "createdAt": "2019-11-18T18:57:57.492Z",
+            "updatedAt": "2019-11-18T18:57:57.492Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 38,
+            "numero": 1618,
+            "data": "2018-11-07T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:04.674Z",
+            "updatedAt": "2019-11-18T18:59:04.674Z",
+            "diario_id": 23,
+            "nomeado_id": 38,
+            "governador_id": 1,
+            "cargo_id": 29,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 23,
+            "edicao": 5233,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:56.487Z",
+            "updatedAt": "2019-11-18T18:58:56.487Z"
+            },
+            "nomeado": {
+            "id": 38,
+            "nome": "CATIUCIA LOPES LIMA",
+            "createdAt": "2019-11-18T18:59:04.264Z",
+            "updatedAt": "2019-11-18T18:59:04.264Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 29,
+            "nome": "ASSESSOR ESPECIAL V",
+            "createdAt": "2019-11-18T18:59:03.640Z",
+            "updatedAt": "2019-11-18T18:59:03.640Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 39,
+            "numero": 1620,
+            "data": "2018-11-07T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:06.256Z",
+            "updatedAt": "2019-11-18T18:59:06.256Z",
+            "diario_id": 23,
+            "nomeado_id": 39,
+            "governador_id": 1,
+            "cargo_id": 30,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 23,
+            "edicao": 5233,
+            "data": null,
+            "createdAt": "2019-11-18T18:58:56.487Z",
+            "updatedAt": "2019-11-18T18:58:56.487Z"
+            },
+            "nomeado": {
+            "id": 39,
+            "nome": "WESLAINE LACERDA ÁVILA",
+            "createdAt": "2019-11-18T18:59:05.902Z",
+            "updatedAt": "2019-11-18T18:59:05.902Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 30,
+            "nome": "GERENTE DE NORMATIZAÇÃO E EDITAIS",
+            "createdAt": "2019-11-18T18:59:05.279Z",
+            "updatedAt": "2019-11-18T18:59:05.279Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 40,
+            "numero": 1672,
+            "data": "2018-11-27T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:13.445Z",
+            "updatedAt": "2019-11-18T18:59:13.445Z",
+            "diario_id": 35,
+            "nomeado_id": 40,
+            "governador_id": 1,
+            "cargo_id": 31,
+            "secretaria_id": 10,
+            "diario": {
+            "id": 35,
+            "edicao": 5245,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:11.539Z",
+            "updatedAt": "2019-11-18T18:59:11.539Z"
+            },
+            "nomeado": {
+            "id": 40,
+            "nome": "CRISTIANO MACHADO SANTOS",
+            "createdAt": "2019-11-18T18:59:13.071Z",
+            "updatedAt": "2019-11-18T18:59:13.071Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 31,
+            "nome": "DIRETOR DE JORNALISMO",
+            "createdAt": "2019-11-18T18:59:12.142Z",
+            "updatedAt": "2019-11-18T18:59:12.142Z"
+            },
+            "secretaria": {
+            "id": 10,
+            "nome": "FUNDAÇÃO RADIODIFUSÃO EDUCATIVA DO ESTADO DO TOCANTINS - REDESAT",
+            "createdAt": "2019-11-18T18:59:12.689Z",
+            "updatedAt": "2019-11-18T18:59:12.689Z"
+            }
+        },
+        {
+            "id": 41,
+            "numero": 1659,
+            "data": "2018-11-27T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:17.065Z",
+            "updatedAt": "2019-11-18T18:59:17.065Z",
+            "diario_id": 39,
+            "nomeado_id": 41,
+            "governador_id": 1,
+            "cargo_id": 32,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 39,
+            "edicao": 5251,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:15.327Z",
+            "updatedAt": "2019-11-18T18:59:15.327Z"
+            },
+            "nomeado": {
+            "id": 41,
+            "nome": "MAYZZA CAMPINA RODRIGUES",
+            "createdAt": "2019-11-18T18:59:16.654Z",
+            "updatedAt": "2019-11-18T18:59:16.654Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 32,
+            "nome": "DIRETOR DE ENFERMAGEM - CONCENTRAÇÃO DE SERVIÇOS I",
+            "createdAt": "2019-11-18T18:59:16.031Z",
+            "updatedAt": "2019-11-18T18:59:16.031Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 42,
+            "numero": 1660,
+            "data": "2018-11-27T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:18.703Z",
+            "updatedAt": "2019-11-18T18:59:18.703Z",
+            "diario_id": 39,
+            "nomeado_id": 42,
+            "governador_id": 1,
+            "cargo_id": 33,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 39,
+            "edicao": 5251,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:15.327Z",
+            "updatedAt": "2019-11-18T18:59:15.327Z"
+            },
+            "nomeado": {
+            "id": 42,
+            "nome": "RENATA DE OLIVEIRA PERES CHAVES",
+            "createdAt": "2019-11-18T18:59:18.236Z",
+            "updatedAt": "2019-11-18T18:59:18.236Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 33,
+            "nome": "DIRETOR DE ATENÇÃO PRIMÁRIA",
+            "createdAt": "2019-11-18T18:59:17.650Z",
+            "updatedAt": "2019-11-18T18:59:17.650Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 43,
+            "numero": 1662,
+            "data": "2018-11-27T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:20.546Z",
+            "updatedAt": "2019-11-18T18:59:20.546Z",
+            "diario_id": 39,
+            "nomeado_id": 43,
+            "governador_id": 1,
+            "cargo_id": 34,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 39,
+            "edicao": 5251,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:15.327Z",
+            "updatedAt": "2019-11-18T18:59:15.327Z"
+            },
+            "nomeado": {
+            "id": 43,
+            "nome": "MARIA MARCILENE GOMES DE SOUSA",
+            "createdAt": "2019-11-18T18:59:20.136Z",
+            "updatedAt": "2019-11-18T18:59:20.136Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 34,
+            "nome": "ASSESSOR ESPECIAL VII",
+            "createdAt": "2019-11-18T18:59:19.512Z",
+            "updatedAt": "2019-11-18T18:59:19.512Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 44,
+            "numero": 1682,
+            "data": "2018-12-03T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:21.735Z",
+            "updatedAt": "2019-11-18T18:59:21.735Z",
+            "diario_id": 39,
+            "nomeado_id": 44,
+            "governador_id": 1,
+            "cargo_id": 16,
+            "secretaria_id": 7,
+            "diario": {
+            "id": 39,
+            "edicao": 5251,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:15.327Z",
+            "updatedAt": "2019-11-18T18:59:15.327Z"
+            },
+            "nomeado": {
+            "id": 44,
+            "nome": "ROSENÍ PEREIRA DA COSTA",
+            "createdAt": "2019-11-18T18:59:21.367Z",
+            "updatedAt": "2019-11-18T18:59:21.367Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 16,
+            "nome": "ASSESSOR ESPECIAL DO GABINETE DO GOVERNADOR IV",
+            "createdAt": "2019-11-18T18:58:26.878Z",
+            "updatedAt": "2019-11-18T18:58:26.878Z"
+            },
+            "secretaria": {
+            "id": 7,
+            "nome": "SECRETARIA-GERAL DE GOVERNO",
+            "createdAt": "2019-11-18T18:58:27.493Z",
+            "updatedAt": "2019-11-18T18:58:27.493Z"
+            }
+        },
+        {
+            "id": 45,
+            "numero": 1683,
+            "data": "2018-12-04T02:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:24.338Z",
+            "updatedAt": "2019-11-18T18:59:24.338Z",
+            "diario_id": 40,
+            "nomeado_id": 45,
+            "governador_id": 1,
+            "cargo_id": 35,
+            "secretaria_id": 11,
+            "diario": {
+            "id": 40,
+            "edicao": 5252,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:22.152Z",
+            "updatedAt": "2019-11-18T18:59:22.152Z"
+            },
+            "nomeado": {
+            "id": 45,
+            "nome": "MÁRCIA MARIA VASCONCELLOS",
+            "createdAt": "2019-11-18T18:59:23.928Z",
+            "updatedAt": "2019-11-18T18:59:23.928Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 35,
+            "nome": "COORDENADOR DE CONTABILIDADE",
+            "createdAt": "2019-11-18T18:59:22.895Z",
+            "updatedAt": "2019-11-18T18:59:22.895Z"
+            },
+            "secretaria": {
+            "id": 11,
+            "nome": "PROCURADORIA- GERAL DO ESTADO",
+            "createdAt": "2019-11-18T18:59:23.509Z",
+            "updatedAt": "2019-11-18T18:59:23.509Z"
+            }
+        },
+        {
+            "id": 46,
+            "numero": 1011,
+            "data": "2019-04-05T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:37.036Z",
+            "updatedAt": "2019-11-18T18:59:37.036Z",
+            "diario_id": 66,
+            "nomeado_id": 46,
+            "governador_id": 1,
+            "cargo_id": 36,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 66,
+            "edicao": 5333,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:34.998Z",
+            "updatedAt": "2019-11-18T18:59:34.998Z"
+            },
+            "nomeado": {
+            "id": 46,
+            "nome": "SIMONE DE LIMA",
+            "createdAt": "2019-11-18T18:59:36.625Z",
+            "updatedAt": "2019-11-18T18:59:36.625Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 36,
+            "nome": "ASSESSOR COMISSIONADO III",
+            "createdAt": "2019-11-18T18:59:35.592Z",
+            "updatedAt": "2019-11-18T18:59:35.592Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 47,
+            "numero": 1019,
+            "data": "2019-04-05T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:38.673Z",
+            "updatedAt": "2019-11-18T18:59:38.673Z",
+            "diario_id": 66,
+            "nomeado_id": 47,
+            "governador_id": 1,
+            "cargo_id": 37,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 66,
+            "edicao": 5333,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:34.998Z",
+            "updatedAt": "2019-11-18T18:59:34.998Z"
+            },
+            "nomeado": {
+            "id": 47,
+            "nome": "WANDE MARY ALMEIDA DE OLIVEIRA SANTOS",
+            "createdAt": "2019-11-18T18:59:38.266Z",
+            "updatedAt": "2019-11-18T18:59:38.266Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 37,
+            "nome": "ASSESSOR COMISSIONADO I",
+            "createdAt": "2019-11-18T18:59:37.640Z",
+            "updatedAt": "2019-11-18T18:59:37.640Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 48,
+            "numero": 1022,
+            "data": "2019-04-05T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:40.313Z",
+            "updatedAt": "2019-11-18T18:59:40.313Z",
+            "diario_id": 66,
+            "nomeado_id": 48,
+            "governador_id": 1,
+            "cargo_id": 38,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 66,
+            "edicao": 5333,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:34.998Z",
+            "updatedAt": "2019-11-18T18:59:34.998Z"
+            },
+            "nomeado": {
+            "id": 48,
+            "nome": "JOÃO MATEUS MOURA",
+            "createdAt": "2019-11-18T18:59:39.882Z",
+            "updatedAt": "2019-11-18T18:59:39.882Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 38,
+            "nome": "ASSESSOR COMISSIONADO V",
+            "createdAt": "2019-11-18T18:59:39.279Z",
+            "updatedAt": "2019-11-18T18:59:39.279Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 49,
+            "numero": 1027,
+            "data": "2019-04-05T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:41.539Z",
+            "updatedAt": "2019-11-18T18:59:41.539Z",
+            "diario_id": 66,
+            "nomeado_id": 49,
+            "governador_id": 1,
+            "cargo_id": 36,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 66,
+            "edicao": 5333,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:34.998Z",
+            "updatedAt": "2019-11-18T18:59:34.998Z"
+            },
+            "nomeado": {
+            "id": 49,
+            "nome": "DIOGO COSTA GONÇALVES",
+            "createdAt": "2019-11-18T18:59:41.131Z",
+            "updatedAt": "2019-11-18T18:59:41.131Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 36,
+            "nome": "ASSESSOR COMISSIONADO III",
+            "createdAt": "2019-11-18T18:59:35.592Z",
+            "updatedAt": "2019-11-18T18:59:35.592Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 50,
+            "numero": 1028,
+            "data": "2019-04-05T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:43.179Z",
+            "updatedAt": "2019-11-18T18:59:43.179Z",
+            "diario_id": 66,
+            "nomeado_id": 50,
+            "governador_id": 1,
+            "cargo_id": 39,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 66,
+            "edicao": 5333,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:34.998Z",
+            "updatedAt": "2019-11-18T18:59:34.998Z"
+            },
+            "nomeado": {
+            "id": 50,
+            "nome": "PEDRO AUGUSTO BARROS DE OLIVEIRA",
+            "createdAt": "2019-11-18T18:59:42.770Z",
+            "updatedAt": "2019-11-18T18:59:42.770Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 39,
+            "nome": "ASSESSOR COMISSIONADO IV",
+            "createdAt": "2019-11-18T18:59:42.147Z",
+            "updatedAt": "2019-11-18T18:59:42.147Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 51,
+            "numero": 1031,
+            "data": "2019-04-05T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:44.408Z",
+            "updatedAt": "2019-11-18T18:59:44.408Z",
+            "diario_id": 66,
+            "nomeado_id": 51,
+            "governador_id": 1,
+            "cargo_id": 39,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 66,
+            "edicao": 5333,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:34.998Z",
+            "updatedAt": "2019-11-18T18:59:34.998Z"
+            },
+            "nomeado": {
+            "id": 51,
+            "nome": "CHARLES PEREIRA NOLETO",
+            "createdAt": "2019-11-18T18:59:43.998Z",
+            "updatedAt": "2019-11-18T18:59:43.998Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 39,
+            "nome": "ASSESSOR COMISSIONADO IV",
+            "createdAt": "2019-11-18T18:59:42.147Z",
+            "updatedAt": "2019-11-18T18:59:42.147Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 52,
+            "numero": 1032,
+            "data": "2019-04-05T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:45.637Z",
+            "updatedAt": "2019-11-18T18:59:45.637Z",
+            "diario_id": 66,
+            "nomeado_id": 52,
+            "governador_id": 1,
+            "cargo_id": 39,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 66,
+            "edicao": 5333,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:34.998Z",
+            "updatedAt": "2019-11-18T18:59:34.998Z"
+            },
+            "nomeado": {
+            "id": 52,
+            "nome": "DOMINGOS CLÁUDIO PEREIRA NEVES",
+            "createdAt": "2019-11-18T18:59:45.227Z",
+            "updatedAt": "2019-11-18T18:59:45.227Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 39,
+            "nome": "ASSESSOR COMISSIONADO IV",
+            "createdAt": "2019-11-18T18:59:42.147Z",
+            "updatedAt": "2019-11-18T18:59:42.147Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 53,
+            "numero": 1033,
+            "data": "2019-04-05T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:47.275Z",
+            "updatedAt": "2019-11-18T18:59:47.275Z",
+            "diario_id": 66,
+            "nomeado_id": 53,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 66,
+            "edicao": 5333,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:34.998Z",
+            "updatedAt": "2019-11-18T18:59:34.998Z"
+            },
+            "nomeado": {
+            "id": 53,
+            "nome": "FÁBIO RAFAEL DE SOUZA",
+            "createdAt": "2019-11-18T18:59:46.841Z",
+            "updatedAt": "2019-11-18T18:59:46.841Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 54,
+            "numero": 1109,
+            "data": "2019-04-11T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:49.599Z",
+            "updatedAt": "2019-11-18T18:59:49.599Z",
+            "diario_id": 67,
+            "nomeado_id": 54,
+            "governador_id": 1,
+            "cargo_id": 41,
+            "secretaria_id": 12,
+            "diario": {
+            "id": 67,
+            "edicao": 5337,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:47.686Z",
+            "updatedAt": "2019-11-18T18:59:47.686Z"
+            },
+            "nomeado": {
+            "id": 54,
+            "nome": "ABNAEL RODRIGUES FERREIRA",
+            "createdAt": "2019-11-18T18:59:49.222Z",
+            "updatedAt": "2019-11-18T18:59:49.222Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 41,
+            "nome": "CHEFE DO NÚCLEO DE ATENDIMENTO DO PROCON - II",
+            "createdAt": "2019-11-18T18:59:48.308Z",
+            "updatedAt": "2019-11-18T18:59:48.308Z"
+            },
+            "secretaria": {
+            "id": 12,
+            "nome": "SECRETARIA DA CIDADANIA E JUSTIÇA",
+            "createdAt": "2019-11-18T18:59:48.843Z",
+            "updatedAt": "2019-11-18T18:59:48.843Z"
+            }
+        },
+        {
+            "id": 55,
+            "numero": 1133,
+            "data": "2019-04-11T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:51.577Z",
+            "updatedAt": "2019-11-18T18:59:51.577Z",
+            "diario_id": 68,
+            "nomeado_id": 55,
+            "governador_id": 1,
+            "cargo_id": 42,
+            "secretaria_id": 4,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 55,
+            "nome": "DANIEL GUEDES DOS SANTOS",
+            "createdAt": "2019-11-18T18:59:51.146Z",
+            "updatedAt": "2019-11-18T18:59:51.146Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 42,
+            "nome": "GERENTE DE MONITORAMENTO E AVALIAÇÃO",
+            "createdAt": "2019-11-18T18:59:50.565Z",
+            "updatedAt": "2019-11-18T18:59:50.565Z"
+            },
+            "secretaria": {
+            "id": 4,
+            "nome": "SECRETARIA DA FAZENDA E PLANEJAMENTO",
+            "createdAt": "2019-11-18T18:58:07.835Z",
+            "updatedAt": "2019-11-18T18:58:07.835Z"
+            }
+        },
+        {
+            "id": 56,
+            "numero": 1137,
+            "data": "2019-04-11T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:52.744Z",
+            "updatedAt": "2019-11-18T18:59:52.744Z",
+            "diario_id": 68,
+            "nomeado_id": 56,
+            "governador_id": 1,
+            "cargo_id": 39,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 56,
+            "nome": "MARLENE MAGALHÃES WANDERLEY",
+            "createdAt": "2019-11-18T18:59:52.395Z",
+            "updatedAt": "2019-11-18T18:59:52.395Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 39,
+            "nome": "ASSESSOR COMISSIONADO IV",
+            "createdAt": "2019-11-18T18:59:42.147Z",
+            "updatedAt": "2019-11-18T18:59:42.147Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 57,
+            "numero": 1143,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:54.341Z",
+            "updatedAt": "2019-11-18T18:59:54.341Z",
+            "diario_id": 68,
+            "nomeado_id": 57,
+            "governador_id": 1,
+            "cargo_id": 43,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 57,
+            "nome": "ALAN AZEVEDO CAVALHEIRO",
+            "createdAt": "2019-11-18T18:59:53.931Z",
+            "updatedAt": "2019-11-18T18:59:53.931Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 43,
+            "nome": "GERENTE DE CONFORMIDADE HOSPITALAR",
+            "createdAt": "2019-11-18T18:59:53.311Z",
+            "updatedAt": "2019-11-18T18:59:53.311Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 58,
+            "numero": 1145,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:55.624Z",
+            "updatedAt": "2019-11-18T18:59:55.624Z",
+            "diario_id": 68,
+            "nomeado_id": 58,
+            "governador_id": 1,
+            "cargo_id": 37,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 58,
+            "nome": "MATHEUS BERALDO ROLEDO",
+            "createdAt": "2019-11-18T18:59:55.263Z",
+            "updatedAt": "2019-11-18T18:59:55.263Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 37,
+            "nome": "ASSESSOR COMISSIONADO I",
+            "createdAt": "2019-11-18T18:59:37.640Z",
+            "updatedAt": "2019-11-18T18:59:37.640Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 59,
+            "numero": 1149,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:56.909Z",
+            "updatedAt": "2019-11-18T18:59:56.909Z",
+            "diario_id": 68,
+            "nomeado_id": 59,
+            "governador_id": 1,
+            "cargo_id": 36,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 59,
+            "nome": "DAYANA GOMES DA SILVA MARTINS",
+            "createdAt": "2019-11-18T18:59:56.494Z",
+            "updatedAt": "2019-11-18T18:59:56.494Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 36,
+            "nome": "ASSESSOR COMISSIONADO III",
+            "createdAt": "2019-11-18T18:59:35.592Z",
+            "updatedAt": "2019-11-18T18:59:35.592Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 60,
+            "numero": 1151,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:58.228Z",
+            "updatedAt": "2019-11-18T18:59:58.228Z",
+            "diario_id": 68,
+            "nomeado_id": 60,
+            "governador_id": 1,
+            "cargo_id": 38,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 60,
+            "nome": "VICTOR FERREIRA DINIZ",
+            "createdAt": "2019-11-18T18:59:57.824Z",
+            "updatedAt": "2019-11-18T18:59:57.824Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 38,
+            "nome": "ASSESSOR COMISSIONADO V",
+            "createdAt": "2019-11-18T18:59:39.279Z",
+            "updatedAt": "2019-11-18T18:59:39.279Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 61,
+            "numero": 1154,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T18:59:59.461Z",
+            "updatedAt": "2019-11-18T18:59:59.461Z",
+            "diario_id": 68,
+            "nomeado_id": 61,
+            "governador_id": 1,
+            "cargo_id": 39,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 61,
+            "nome": "ELLEN SANDRA SANTOS DE ALMEIDA WEBER",
+            "createdAt": "2019-11-18T18:59:59.051Z",
+            "updatedAt": "2019-11-18T18:59:59.051Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 39,
+            "nome": "ASSESSOR COMISSIONADO IV",
+            "createdAt": "2019-11-18T18:59:42.147Z",
+            "updatedAt": "2019-11-18T18:59:42.147Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 62,
+            "numero": 1155,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:01.099Z",
+            "updatedAt": "2019-11-18T19:00:01.099Z",
+            "diario_id": 68,
+            "nomeado_id": 62,
+            "governador_id": 1,
+            "cargo_id": 44,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 62,
+            "nome": "SIMONE BARALE SOARES",
+            "createdAt": "2019-11-18T19:00:00.661Z",
+            "updatedAt": "2019-11-18T19:00:00.661Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 44,
+            "nome": "DIRETOR ADMINISTRATIVO E FINANCEIRO DE UNIDADE PORTE 2",
+            "createdAt": "2019-11-18T19:00:00.066Z",
+            "updatedAt": "2019-11-18T19:00:00.066Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 63,
+            "numero": 1156,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:02.705Z",
+            "updatedAt": "2019-11-18T19:00:02.705Z",
+            "diario_id": 68,
+            "nomeado_id": 63,
+            "governador_id": 1,
+            "cargo_id": 45,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 63,
+            "nome": "GILENO DIAS DE OLIVEIRA",
+            "createdAt": "2019-11-18T19:00:02.328Z",
+            "updatedAt": "2019-11-18T19:00:02.328Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 45,
+            "nome": "DIRETOR DE SUPRIMENTOS HOSPITALARES",
+            "createdAt": "2019-11-18T19:00:01.669Z",
+            "updatedAt": "2019-11-18T19:00:01.669Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 64,
+            "numero": 1158,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:04.785Z",
+            "updatedAt": "2019-11-18T19:00:04.785Z",
+            "diario_id": 68,
+            "nomeado_id": 64,
+            "governador_id": 1,
+            "cargo_id": 46,
+            "secretaria_id": 13,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 64,
+            "nome": "WALMIR FRANCISCO DE MORAES PELUSCI",
+            "createdAt": "2019-11-18T19:00:04.377Z",
+            "updatedAt": "2019-11-18T19:00:04.377Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 46,
+            "nome": "SUPERVISOR DE MANUTENÇÃO DE EQUIPAMENTOS RODOVIÁRIOS",
+            "createdAt": "2019-11-18T19:00:03.343Z",
+            "updatedAt": "2019-11-18T19:00:03.343Z"
+            },
+            "secretaria": {
+            "id": 13,
+            "nome": "AGÊNCIA TOCANTINENSE DE TRANSPORTES E OBRAS - AGETO",
+            "createdAt": "2019-11-18T19:00:03.957Z",
+            "updatedAt": "2019-11-18T19:00:03.957Z"
+            }
+        },
+        {
+            "id": 65,
+            "numero": 1165,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:06.321Z",
+            "updatedAt": "2019-11-18T19:00:06.321Z",
+            "diario_id": 68,
+            "nomeado_id": 65,
+            "governador_id": 1,
+            "cargo_id": 39,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 65,
+            "nome": "MARLY GOMES DOS SANTOS",
+            "createdAt": "2019-11-18T19:00:05.914Z",
+            "updatedAt": "2019-11-18T19:00:05.914Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 39,
+            "nome": "ASSESSOR COMISSIONADO IV",
+            "createdAt": "2019-11-18T18:59:42.147Z",
+            "updatedAt": "2019-11-18T18:59:42.147Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 66,
+            "numero": 1176,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:07.550Z",
+            "updatedAt": "2019-11-18T19:00:07.550Z",
+            "diario_id": 68,
+            "nomeado_id": 66,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 66,
+            "nome": "OLYANNA MARQUES TEIXEIRA",
+            "createdAt": "2019-11-18T19:00:07.144Z",
+            "updatedAt": "2019-11-18T19:00:07.144Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 67,
+            "numero": 1178,
+            "data": "2019-04-12T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:08.780Z",
+            "updatedAt": "2019-11-18T19:00:08.780Z",
+            "diario_id": 68,
+            "nomeado_id": 67,
+            "governador_id": 1,
+            "cargo_id": 36,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 68,
+            "edicao": 5338,
+            "data": null,
+            "createdAt": "2019-11-18T18:59:50.008Z",
+            "updatedAt": "2019-11-18T18:59:50.008Z"
+            },
+            "nomeado": {
+            "id": 67,
+            "nome": "MIRLEI VARGAS MARINHO HASS",
+            "createdAt": "2019-11-18T19:00:08.348Z",
+            "updatedAt": "2019-11-18T19:00:08.348Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 36,
+            "nome": "ASSESSOR COMISSIONADO III",
+            "createdAt": "2019-11-18T18:59:35.592Z",
+            "updatedAt": "2019-11-18T18:59:35.592Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 68,
+            "numero": 1211,
+            "data": "2019-04-16T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:10.418Z",
+            "updatedAt": "2019-11-18T19:00:10.418Z",
+            "diario_id": 69,
+            "nomeado_id": 68,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 68,
+            "nome": "VALKYRIA AVELINO SILVA E SOUZA",
+            "createdAt": "2019-11-18T19:00:10.008Z",
+            "updatedAt": "2019-11-18T19:00:10.008Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 69,
+            "numero": 1214,
+            "data": "2019-04-16T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:11.646Z",
+            "updatedAt": "2019-11-18T19:00:11.646Z",
+            "diario_id": 69,
+            "nomeado_id": 69,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 69,
+            "nome": "ELINALDO BATISTA COSTA",
+            "createdAt": "2019-11-18T19:00:11.237Z",
+            "updatedAt": "2019-11-18T19:00:11.237Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 70,
+            "numero": 1215,
+            "data": "2019-04-16T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:12.876Z",
+            "updatedAt": "2019-11-18T19:00:12.876Z",
+            "diario_id": 69,
+            "nomeado_id": 70,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 70,
+            "nome": "GABRIEL ROCHA FREITAS DE CAMPOS",
+            "createdAt": "2019-11-18T19:00:12.467Z",
+            "updatedAt": "2019-11-18T19:00:12.467Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 71,
+            "numero": 1236,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:14.519Z",
+            "updatedAt": "2019-11-18T19:00:14.519Z",
+            "diario_id": 69,
+            "nomeado_id": 71,
+            "governador_id": 1,
+            "cargo_id": 47,
+            "secretaria_id": 13,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 71,
+            "nome": "LUISMÊNIA MARIA PEREIRA CASTRO",
+            "createdAt": "2019-11-18T19:00:14.106Z",
+            "updatedAt": "2019-11-18T19:00:14.106Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 47,
+            "nome": "GERENTE DE EXECUÇÃO FINANCEIRA, ORÇAMENTÁRIA E CONTÁBIL",
+            "createdAt": "2019-11-18T19:00:13.482Z",
+            "updatedAt": "2019-11-18T19:00:13.482Z"
+            },
+            "secretaria": {
+            "id": 13,
+            "nome": "AGÊNCIA TOCANTINENSE DE TRANSPORTES E OBRAS - AGETO",
+            "createdAt": "2019-11-18T19:00:03.957Z",
+            "updatedAt": "2019-11-18T19:00:03.957Z"
+            }
+        },
+        {
+            "id": 72,
+            "numero": 1241,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:16.562Z",
+            "updatedAt": "2019-11-18T19:00:16.562Z",
+            "diario_id": 69,
+            "nomeado_id": 72,
+            "governador_id": 1,
+            "cargo_id": 48,
+            "secretaria_id": 14,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 72,
+            "nome": "DENNER GLEIK ROSA MARTINS",
+            "createdAt": "2019-11-18T19:00:16.144Z",
+            "updatedAt": "2019-11-18T19:00:16.144Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 48,
+            "nome": "DIRETOR DE PRODUÇÃO HABITACIONAL E OBRAS",
+            "createdAt": "2019-11-18T19:00:15.119Z",
+            "updatedAt": "2019-11-18T19:00:15.119Z"
+            },
+            "secretaria": {
+            "id": 14,
+            "nome": "SECRETARIA DA INFRAESTRUTURA",
+            "createdAt": "2019-11-18T19:00:15.710Z",
+            "updatedAt": "2019-11-18T19:00:15.710Z"
+            }
+        },
+        {
+            "id": 73,
+            "numero": 1244,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:18.193Z",
+            "updatedAt": "2019-11-18T19:00:18.193Z",
+            "diario_id": 69,
+            "nomeado_id": 73,
+            "governador_id": 1,
+            "cargo_id": 49,
+            "secretaria_id": 14,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 73,
+            "nome": "CARLOS EDUARDO NOGUEIRA DE MORAES",
+            "createdAt": "2019-11-18T19:00:17.762Z",
+            "updatedAt": "2019-11-18T19:00:17.762Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 49,
+            "nome": "GERENTE DE APOIO TÉCNICO AOS MUNICÍPIOS",
+            "createdAt": "2019-11-18T19:00:17.167Z",
+            "updatedAt": "2019-11-18T19:00:17.167Z"
+            },
+            "secretaria": {
+            "id": 14,
+            "nome": "SECRETARIA DA INFRAESTRUTURA",
+            "createdAt": "2019-11-18T19:00:15.710Z",
+            "updatedAt": "2019-11-18T19:00:15.710Z"
+            }
+        },
+        {
+            "id": 74,
+            "numero": 1246,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:20.289Z",
+            "updatedAt": "2019-11-18T19:00:20.289Z",
+            "diario_id": 69,
+            "nomeado_id": 74,
+            "governador_id": 1,
+            "cargo_id": 50,
+            "secretaria_id": 15,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 74,
+            "nome": "LEANDRO PINHEIRO BORGES",
+            "createdAt": "2019-11-18T19:00:19.942Z",
+            "updatedAt": "2019-11-18T19:00:19.942Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 50,
+            "nome": "CHEFE DA ASSESSORIA DE COMUNICAÇÃO",
+            "createdAt": "2019-11-18T19:00:18.907Z",
+            "updatedAt": "2019-11-18T19:00:18.907Z"
+            },
+            "secretaria": {
+            "id": 15,
+            "nome": "SECRETARIA DO TRABALHO E DESENVOLVIMENTO SOCIAL",
+            "createdAt": "2019-11-18T19:00:19.521Z",
+            "updatedAt": "2019-11-18T19:00:19.521Z"
+            }
+        },
+        {
+            "id": 75,
+            "numero": 1247,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:21.989Z",
+            "updatedAt": "2019-11-18T19:00:21.989Z",
+            "diario_id": 69,
+            "nomeado_id": 75,
+            "governador_id": 1,
+            "cargo_id": 51,
+            "secretaria_id": 14,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 75,
+            "nome": "RAFAEL ALVES POERSCHKE",
+            "createdAt": "2019-11-18T19:00:21.579Z",
+            "updatedAt": "2019-11-18T19:00:21.579Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 51,
+            "nome": "GERENTE DE FISCALIZAÇÃO DE OBRAS",
+            "createdAt": "2019-11-18T19:00:20.956Z",
+            "updatedAt": "2019-11-18T19:00:20.956Z"
+            },
+            "secretaria": {
+            "id": 14,
+            "nome": "SECRETARIA DA INFRAESTRUTURA",
+            "createdAt": "2019-11-18T19:00:15.710Z",
+            "updatedAt": "2019-11-18T19:00:15.710Z"
+            }
+        },
+        {
+            "id": 76,
+            "numero": 1248,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:23.628Z",
+            "updatedAt": "2019-11-18T19:00:23.628Z",
+            "diario_id": 69,
+            "nomeado_id": 76,
+            "governador_id": 1,
+            "cargo_id": 52,
+            "secretaria_id": 12,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 76,
+            "nome": "ANA CLARA MORAIS SOARES",
+            "createdAt": "2019-11-18T19:00:23.220Z",
+            "updatedAt": "2019-11-18T19:00:23.220Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 52,
+            "nome": "SECRETÁRIO-GERAL",
+            "createdAt": "2019-11-18T19:00:22.594Z",
+            "updatedAt": "2019-11-18T19:00:22.594Z"
+            },
+            "secretaria": {
+            "id": 12,
+            "nome": "SECRETARIA DA CIDADANIA E JUSTIÇA",
+            "createdAt": "2019-11-18T18:59:48.843Z",
+            "updatedAt": "2019-11-18T18:59:48.843Z"
+            }
+        },
+        {
+            "id": 77,
+            "numero": 1251,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:24.856Z",
+            "updatedAt": "2019-11-18T19:00:24.856Z",
+            "diario_id": 69,
+            "nomeado_id": 77,
+            "governador_id": 1,
+            "cargo_id": 39,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 77,
+            "nome": "IZADORA LUCENA XAVIER",
+            "createdAt": "2019-11-18T19:00:24.447Z",
+            "updatedAt": "2019-11-18T19:00:24.447Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 39,
+            "nome": "ASSESSOR COMISSIONADO IV",
+            "createdAt": "2019-11-18T18:59:42.147Z",
+            "updatedAt": "2019-11-18T18:59:42.147Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 78,
+            "numero": 1252,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:26.086Z",
+            "updatedAt": "2019-11-18T19:00:26.086Z",
+            "diario_id": 69,
+            "nomeado_id": 78,
+            "governador_id": 1,
+            "cargo_id": 38,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 78,
+            "nome": "KARIELLE ALVES PINHEIRO",
+            "createdAt": "2019-11-18T19:00:25.676Z",
+            "updatedAt": "2019-11-18T19:00:25.676Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 38,
+            "nome": "ASSESSOR COMISSIONADO V",
+            "createdAt": "2019-11-18T18:59:39.279Z",
+            "updatedAt": "2019-11-18T18:59:39.279Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 79,
+            "numero": 1255,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:27.314Z",
+            "updatedAt": "2019-11-18T19:00:27.314Z",
+            "diario_id": 69,
+            "nomeado_id": 79,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 79,
+            "nome": "HUSTHOM BENTO PARENTE",
+            "createdAt": "2019-11-18T19:00:26.906Z",
+            "updatedAt": "2019-11-18T19:00:26.906Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 80,
+            "numero": 1260,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:29.260Z",
+            "updatedAt": "2019-11-18T19:00:29.260Z",
+            "diario_id": 69,
+            "nomeado_id": 80,
+            "governador_id": 1,
+            "cargo_id": 53,
+            "secretaria_id": 13,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 80,
+            "nome": "JONÍVIO DE SOUSA SANTOS",
+            "createdAt": "2019-11-18T19:00:28.850Z",
+            "updatedAt": "2019-11-18T19:00:28.850Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 53,
+            "nome": "GERENTE DE INFRAESTRUTURA INTERMODAL",
+            "createdAt": "2019-11-18T19:00:28.226Z",
+            "updatedAt": "2019-11-18T19:00:28.226Z"
+            },
+            "secretaria": {
+            "id": 13,
+            "nome": "AGÊNCIA TOCANTINENSE DE TRANSPORTES E OBRAS - AGETO",
+            "createdAt": "2019-11-18T19:00:03.957Z",
+            "updatedAt": "2019-11-18T19:00:03.957Z"
+            }
+        },
+        {
+            "id": 81,
+            "numero": 1261,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:30.496Z",
+            "updatedAt": "2019-11-18T19:00:30.496Z",
+            "diario_id": 69,
+            "nomeado_id": 81,
+            "governador_id": 1,
+            "cargo_id": 44,
+            "secretaria_id": 5,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 81,
+            "nome": "ALLANE MARTINS LACERDA",
+            "createdAt": "2019-11-18T19:00:30.079Z",
+            "updatedAt": "2019-11-18T19:00:30.079Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 44,
+            "nome": "DIRETOR ADMINISTRATIVO E FINANCEIRO DE UNIDADE PORTE 2",
+            "createdAt": "2019-11-18T19:00:00.066Z",
+            "updatedAt": "2019-11-18T19:00:00.066Z"
+            },
+            "secretaria": {
+            "id": 5,
+            "nome": "SECRETARIA DA SAÚDE",
+            "createdAt": "2019-11-18T18:58:12.340Z",
+            "updatedAt": "2019-11-18T18:58:12.340Z"
+            }
+        },
+        {
+            "id": 82,
+            "numero": 1265,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:31.717Z",
+            "updatedAt": "2019-11-18T19:00:31.717Z",
+            "diario_id": 69,
+            "nomeado_id": 82,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 82,
+            "nome": "BRENER RAFAEL DUARTE",
+            "createdAt": "2019-11-18T19:00:31.308Z",
+            "updatedAt": "2019-11-18T19:00:31.308Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 83,
+            "numero": 1267,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:32.946Z",
+            "updatedAt": "2019-11-18T19:00:32.946Z",
+            "diario_id": 69,
+            "nomeado_id": 83,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 83,
+            "nome": "EMANUELLE BARBOSA LIRA",
+            "createdAt": "2019-11-18T19:00:32.536Z",
+            "updatedAt": "2019-11-18T19:00:32.536Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        },
+        {
+            "id": 84,
+            "numero": 1269,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:35.045Z",
+            "updatedAt": "2019-11-18T19:00:35.045Z",
+            "diario_id": 69,
+            "nomeado_id": 84,
+            "governador_id": 1,
+            "cargo_id": 54,
+            "secretaria_id": 16,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 84,
+            "nome": "FRANCISCO ERIBERTO DE CARVALHO BRITO",
+            "createdAt": "2019-11-18T19:00:34.585Z",
+            "updatedAt": "2019-11-18T19:00:34.585Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 54,
+            "nome": "GERENTE GERAL DE ADMINISTRAÇÃO E DE EXECUÇÃO FINANCEIRA, ORÇAMENTÁRIA E CONTÁBIL",
+            "createdAt": "2019-11-18T19:00:33.551Z",
+            "updatedAt": "2019-11-18T19:00:33.551Z"
+            },
+            "secretaria": {
+            "id": 16,
+            "nome": "AGÊNCIA DE MINERAÇÃO DO ESTADO DO TOCANTINS - AMETO",
+            "createdAt": "2019-11-18T19:00:34.165Z",
+            "updatedAt": "2019-11-18T19:00:34.165Z"
+            }
+        },
+        {
+            "id": 85,
+            "numero": 1270,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:36.739Z",
+            "updatedAt": "2019-11-18T19:00:36.739Z",
+            "diario_id": 69,
+            "nomeado_id": 85,
+            "governador_id": 1,
+            "cargo_id": 55,
+            "secretaria_id": 14,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 85,
+            "nome": "SANDRO BANDEIRA",
+            "createdAt": "2019-11-18T19:00:36.325Z",
+            "updatedAt": "2019-11-18T19:00:36.325Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 55,
+            "nome": "SECRETÁRIO EXECUTIVO",
+            "createdAt": "2019-11-18T19:00:35.701Z",
+            "updatedAt": "2019-11-18T19:00:35.701Z"
+            },
+            "secretaria": {
+            "id": 14,
+            "nome": "SECRETARIA DA INFRAESTRUTURA",
+            "createdAt": "2019-11-18T19:00:15.710Z",
+            "updatedAt": "2019-11-18T19:00:15.710Z"
+            }
+        },
+        {
+            "id": 86,
+            "numero": 1271,
+            "data": "2019-04-17T03:00:00.000Z",
+            "createdAt": "2019-11-18T19:00:37.887Z",
+            "updatedAt": "2019-11-18T19:00:37.887Z",
+            "diario_id": 69,
+            "nomeado_id": 86,
+            "governador_id": 1,
+            "cargo_id": 40,
+            "secretaria_id": 2,
+            "diario": {
+            "id": 69,
+            "edicao": 5341,
+            "data": null,
+            "createdAt": "2019-11-18T19:00:09.192Z",
+            "updatedAt": "2019-11-18T19:00:09.192Z"
+            },
+            "nomeado": {
+            "id": 86,
+            "nome": "ELIARA ALENCAR COUTO",
+            "createdAt": "2019-11-18T19:00:37.532Z",
+            "updatedAt": "2019-11-18T19:00:37.532Z"
+            },
+            "governador": {
+            "id": 1,
+            "nome": "MAURO CARLESSE",
+            "createdAt": "2019-11-18T18:57:31.732Z",
+            "updatedAt": "2019-11-18T18:57:31.732Z"
+            },
+            "cargo": {
+            "id": 40,
+            "nome": "ASSESSOR COMISSIONADO II",
+            "createdAt": "2019-11-18T18:59:46.215Z",
+            "updatedAt": "2019-11-18T18:59:46.215Z"
+            },
+            "secretaria": {
+            "id": 2,
+            "nome": "SECRETARIA DA ADMINISTRAÇÃO",
+            "createdAt": "2019-11-18T18:57:58.085Z",
+            "updatedAt": "2019-11-18T18:57:58.085Z"
+            }
+        }
+    ],
+    "nomeados": [
+        {
+         "quantidade": 86
+        }
+    ],
+    "cargos": [
+        {
+         "quantidade": 55
+        }
+    ],
+    "secretarias": [
+        {
+         "quantidade": 16
+        }
+    ],
+    "q_atos": [
+        {
+         "quantidade": 86
+        }
+    ],
+    "diarios": [
+        {
+         "quantidade": 69
+        }
+    ]
+}
