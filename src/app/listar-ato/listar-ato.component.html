@@ -1,18 +1,18 @@
 <style>
-    #botao {
-        color:white;
-    }
-    #botao:hover {
-      font-size: 101%;
-      background: rgb(30,120,230);
-    }
-    footer {
-      color: #808080;
-    }
+  #botao {
+    color: white;
+  }
+  #botao:hover {
+    font-size: 101%;
+    background: rgb(30, 120, 230);
+  }
+  footer {
+    color: #808080;
+  }
 </style>
-<p>
+<p></p>
 <h1>Lista de Atos</h1>
-<p>
+<p></p>
 <table class="table">
   <thead>
     <tr>
@@ -27,8 +27,15 @@
     </tr>
   </thead>
   <tbody>
-    <tr *ngFor="let ato of atos.rows | async">
-      <td class="text-center"><a id="botao" class="btn btn-primary btn-sm" [routerLink]="['/atos', ato.id]">{{ ato.id }}</a></td> 
+    <tr *ngFor="let ato of atos.rows">
+      <td class="text-center">
+        <a
+          id="botao"
+          class="btn btn-primary btn-sm"
+          [routerLink]="['/atos', ato.id]"
+          >{{ ato.id }}</a
+        >
+      </td>
       <td class="text-center">{{ ato.numero }}</td>
       <td class="text-center">{{ ato.diario.edicao }}</td>
       <td class="text-center">{{ ato.governador.nome }}</td>
@@ -40,18 +47,22 @@
   </tbody>
 </table>
 <footer class="mt-5">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-            <p><strong>INFO DOE</strong> é um software proposto para a matéria de Estagio Supervisionado.</p>
-        </div>
-        <div class="col">
-            <p class="text-center">&copy; 2019</p>
-        </div>
-        <div class="col">
-          O <strong>INFO DOE</strong> recupera e apresenta dados de Atos de Nomeação do DOE do Tocantins.
-          <p>
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <p>
+          <strong>INFO DOE</strong> é um software proposto para a matéria de
+          Estagio Supervisionado.
+        </p>
+      </div>
+      <div class="col">
+        <p class="text-center">&copy; 2019</p>
+      </div>
+      <div class="col">
+        O <strong>INFO DOE</strong> recupera e apresenta dados de Atos de
+        Nomeação do DOE do Tocantins.
+        <p></p>
       </div>
     </div>
+  </div>
 </footer>
